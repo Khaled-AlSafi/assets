@@ -247,7 +247,7 @@ body:before {
     pointer-events: none;
     width: 100vw;
     z-index: 0;
-    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%20preserveAspectRatio%3D%22none%22%3E%20%3Ccircle%20cx%3D%22256%22%20cy%3D%22256%22%20r%3D%2214.01%25%22%20fill%3D%22rgba(255,0,46,0.11)%22%20%2F%3E%3C%2Fsvg%3E'), url('background.jpg');
+    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%20preserveAspectRatio%3D%22none%22%3E%20%3Ccircle%20cx%3D%22256%22%20cy%3D%22256%22%20r%3D%2214.01%25%22%20fill%3D%22rgba(255,0,46,0.11)%22%20%2F%3E%3C%2Fsvg%3E'), url('https://cdn.jsdelivr.net/gh/Khaled-AlSafi/assets@master/DZ/crd-v1/background.jpg');
     background-size: 52px, cover;
     background-position: center, center;
     background-repeat: repeat, no-repeat;
